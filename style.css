@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500&display=swap');
+body{
+    background-image: url("nucar.jpg");
+    background-size: 1499px 1010px;
+    background-repeat: no-repeat;
+    
+}
+
+
+
+#fir{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    margin-left: 240px;
+}
+
+#tir{
+    margin-top: -50px;
+    margin-left: 199px;
+}
+
+.menu{
+display: flex;
+color: white;
+float: right;
+list-style-type:none;
+font-family: 'Open Sans', sans-serif;
+margin-right: 110px;
+margin-top: -25px;
+
+}
+
+.menu li{
+    padding: 0 14px;
+}
+.menu li:hover{
+    
+    color: yellow;
+    cursor: pointer;
+}
+#zip{
+    background-color: rgb(18, 137, 185);
+    margin: 15px;
+    margin-top: 3px;
+}
+
+
+
+.second h1{
+    color: rgb(18, 137, 185);
+    margin-top: 320px;
+    font-weight: bolder;
+    font-size: 40px;
+    margin-left: 280px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.second p{
+    color: white;
+    
+    margin-top: 40px;
+    margin-left: 260px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+.hu{
+    background-color:rgb(18, 137, 185) ;
+    font-size: 20px;
+    color:white;
+    padding: 20px;
+    border: 1px;
+    margin-left: 257px;
+   font-family: 'Open Sans', sans-serif;
+   border: 30px;
+}
+.hu:hover{
+    background-color:rgb(172, 30, 92) ;
+    font-size: 20px;
+    color:white;
+    padding: 20px;
+    border: 1px;
+    margin-left: 257px;
+    cursor: pointer;
+   font-family: 'Open Sans', sans-serif;
+   border: 30px;
+}
+
+.nutan{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    height: 100px;
+    margin-top: 110px;
+}
+.nutan div{
+    padding: 0 100px;
+    margin: 20px;
+    
+    
+}
+.nutan .if{
+    color:rgb(18, 137, 185);
+}
